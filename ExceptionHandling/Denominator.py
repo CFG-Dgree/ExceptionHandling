@@ -8,4 +8,4 @@ try:
     print(division_result)
 
 except ZeroDivisionError:
-    print("You cannot divide by 0, please try gain")
+    print("You cannot divide by 0, please try gain. denominator could not be 0")
